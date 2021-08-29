@@ -1,4 +1,9 @@
+#include <stdio.h>
+#include <string.h> /* gets, strcmp */
+#include <stdlib.h> /* system */
+
 #define "silvestre"
+
 #define carro 10
 
 int main(){
